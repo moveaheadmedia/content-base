@@ -1,0 +1,10 @@
+{
+  "name": "content-base",
+  "private": true,
+  "description": "Content team workflow dashboard for Move Ahead Media. Plain HTML, CSS and JavaScript; no build step.",
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/*.test.js",
+    "start": "python3 tools/dev-server.py 8000"
+  }
+}

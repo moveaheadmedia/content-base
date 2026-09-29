@@ -1,0 +1,19 @@
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Local screenshots / scratch
+.preview/
+
+# Logs
+*.log
+
+# Claude Code local files
+.claude/worktrees/
+.claude/settings.local.json
